@@ -4,9 +4,7 @@ Warhammer community
 Lingyu Liu
 lingyuliu@brandeis.edu
 
-<p align="center">
-  <img src="https://s0.2mdn.net/2510700/21056_Stackoverflow_Banners_0416_SDE-728x90_Mid-Page.jpg" width="350" title="hover text">
-</p>
+![Screenshot](home.jpg)
 
 Elevator Pitch: 
 This is an app about sharing information about totalwar warhammer game. It provides a platform for players to share their experiences and hopefully collect news for the coming game that would be published early next year.
