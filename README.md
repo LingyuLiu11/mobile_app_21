@@ -2,7 +2,7 @@
 
 Warhammer community
 Lingyu Liu
-lingyuliu@brandeis.edu
+
 
 ![Screenshot](home.jpg)
 
